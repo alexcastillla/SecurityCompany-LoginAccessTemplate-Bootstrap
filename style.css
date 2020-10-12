@@ -1,0 +1,7 @@
+body{
+    min-height: 100vh;
+    background-color: #313131;
+}
+#boxPassword{
+    box-shadow: 5px 8px 6px rgba(0, 0, 0, 0.5);
+}
